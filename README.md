@@ -11,7 +11,7 @@
   <li>✨<a href="https://kiktrend.com">Kiktrend.com - Cryptocurrency coin Listing Website  :(Laravel, Vue, Vuetify & Vuex)</a></li>
    <li>✨<a href="https://kduportal.com.ng">Koladaisi University Portal  :(PHP OOP)</a></li>
     <li>✨<a href="https://lesvas.com">Online Voting Portal :(PHP OOP)</a></li>
--  </ul>
+  </ul>
 - 👀 I’m interested in web application developments<br>
 - 💞️ I’m looking to collaborate on laravel/vue projects<br>
 - 📫 Reach me on pauljokotagba@gmail.com<br>
