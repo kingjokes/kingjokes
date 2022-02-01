@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Paul Jokotagba. I'm currently working as the web adminitrator of Elerinmosa Resource Hub.
 -  I am a fullstack website/web application developer majorly on PHP and Vanilla JavaScript with over 4 years working experience.
 -  Average knowledge in other programming languages like python, c#, and flutter.
--  Frameworks: PHP(Laravel) , JS(JQuery, Vue JS, Vuex, Node JS).
+-  Frameworks: PHP(Laravel) , JS(JQuery, Vue JS, Vuex, Node JS,,Express JS).
 -  CSS(UI/UX) Frameworks: Bootstrap, W3.css, Vuetify.
--  Database: Mysql, Firebase.
+-  Database: Mysql, Firebase,MongoDB.
 -  Sound knowledge of RESTFUL api, SOLID pattern and OOP programming.
 -  Top projects: 
   <ul>
