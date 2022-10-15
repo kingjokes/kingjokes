@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Paul Jokotagba.
--  I am a fullstack website/web application developer majorly on Web and mobile applications with over 5 years working experience.
--  Average knowledge in other programming languages like python, c#, and flutter.
--  Frameworks: PHP(Laravel, CodeIgniter) , JS(Typescript, Vue,React, React-Native, Node JS,Express JS).
--  CSS(UI/UX) Frameworks: Bootstrap, W3.css, Vuetify, Material UI.
+-  👋 Hi, I’m Paul Jokotagba.
+-  😎 I am a fullstack website/web application developer majorly on Web and mobile applications with over 5 years working experience.
+-  😐 Average knowledge in other programming languages like python, c#, and flutter.
+-  😁 Frameworks: PHP(Laravel, CodeIgniter) , JS(Typescript, Vue,React, React-Native, Node JS,Express JS).
+-   CSS(UI/UX) Frameworks: Bootstrap, W3.css, Vuetify, Material UI.
 -  Database: Mysql, Firebase, MongoDB.
 -  Sound knowledge of RESTFUL api, SOLID pattern and OOP programming.
  
