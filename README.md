@@ -3,7 +3,7 @@
 -  😐 Average knowledge in other programming languages like python, c#, and flutter.
 -  😁 Frameworks: PHP(Laravel, CodeIgniter) , JS(Typescript, Vue,React, React-Native, Node JS,Express JS), Python (Django), Dart(Flutter).
 -   CSS(UI/UX) Frameworks: Bootstrap, W3.css, Vuetify, Material UI.
--  Database: Mysql, Firebase, MongoDB.
+-  Database: Mysql, Firebase, MongoDB, SQLite.
 -  Sound knowledge of RESTFUL api, SOLID pattern and OOP programming.
  
 - 👀 I’m interested in web and mobile application developments<br>
