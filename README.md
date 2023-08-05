@@ -1,11 +1,11 @@
 -  👋 Hi, I’m Paul Jokotagba.
--  😎 I am a fullstack application developer majorly on web and mobile development with over 5 years working experience.
+-  😎 I am a software engineer majorly on web and mobile development with over 5 years working experience.
 -  😉 Solid knowledge in PHP, Javascript and Python.
 -  😐 Average knowledge in other programming languages like c# and flutter.
 -  😁 Frameworks: PHP(Laravel, CodeIgniter) , JS(Typescript, Vue,React, React-Native, Node JS,Express JS), Python (Django), Dart(Flutter).
 -   CSS(UI/UX) Frameworks: Bootstrap, W3.css, Vuetify, Material UI.
 -  Database: Mysql, Firebase, MongoDB, SQLite.
--  Sound knowledge of RESTFUL api, SOLID pattern and OOP programming.
+-  Sound knowledge of RESTFUL API, SOLID pattern and OOP programming.
  
 - 👀 I’m interested in web and mobile application developments<br>
 - 💞️ I’m looking to collaborate on web  projects<br>
