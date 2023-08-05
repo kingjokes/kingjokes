@@ -1,5 +1,5 @@
 -  👋 Hi, I’m Paul Jokotagba.
--  😎 I am a software engineer majorly on web and mobile development with over 5 years working experience.
+-  😎 I am a Software Engineer majorly on web and mobile development with over 5 years working experience.
 -  😉 Solid knowledge in PHP, Javascript and Python.
 -  😐 Average knowledge in other programming languages like c# and flutter.
 -  😁 Frameworks: PHP(Laravel, CodeIgniter) , JS(Typescript, Vue,React, React-Native, Node JS,Express JS), Python (Django), Dart(Flutter).
