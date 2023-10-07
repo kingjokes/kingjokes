@@ -5,7 +5,7 @@
 -  😁 Frameworks: PHP(Laravel, CodeIgniter) , JS(Typescript, Vue,React, React-Native, Node JS,Express JS), Python (Django), Dart(Flutter).
 -   CSS(UI/UX) Frameworks: Bootstrap, W3.css, Vuetify, Material UI.
 -  Database: Mysql, Firebase, MongoDB, SQLite.
--  Sound knowledge of RESTFUL API, SOLID pattern and OOP programming.
+-  Sound knowledge of RESTFUL API, FAST API, SOLID & Repository pattern and OOP programming.
  
 - 👀 I’m interested in web and mobile application developments<br>
 - 💞️ I’m looking to collaborate on web  projects<br>
