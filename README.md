@@ -10,7 +10,7 @@
 - 👀 I’m interested in web and mobile application developments<br>
 - 💞️ I’m looking to collaborate on web  projects<br>
 - 📫 Reach me on pauljokotagba@gmail.com<br>
-- 📫 Website <a href="https://hiwebdevsolutions.com">HiwebDev Solutions</a>
+- 📫 Website <a href="https://hiwebdevsolutions.netlify.app/">HiwebDev Solutions</a>
 
 <!---
 kingjokes/kingjokes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
