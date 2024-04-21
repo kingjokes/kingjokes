@@ -2,7 +2,7 @@
 -  😎 I am a Software Engineer majorly on web and mobile development with over 5 years working experience.
 -  😉 Solid knowledge in PHP, Javascript and Python.
 -  😐 Average knowledge in other programming languages like c# and flutter.
--  😁 Frameworks: PHP(Laravel, CodeIgniter) , JS(Typescript, Vue, React, Next, Nest, React-Native, Node JS,Express JS,), Python (Django), Dart(Flutter).
+-  😁 Frameworks: PHP(Laravel, CodeIgniter) , JS(Typescript, Vue, React, Next, Nest, React-Native, Node JS,Express JS), Python (Django), Dart(Flutter).
 -   CSS(UI/UX) Frameworks: Bootstrap, W3.css, Vuetify, Material UI.
 -  Database: Mysql, Firebase, MongoDB, SQLite, PostgreSQL.
 -  Sound knowledge of RESTFUL API, FAST API, SOLID & Repository pattern and OOP programming.
